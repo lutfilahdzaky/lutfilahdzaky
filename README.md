@@ -1,7 +1,7 @@
 ### Hi there, I'm Lutfilah Dzaky - aka [LutfilahDz][youtube]
 
-[![Website](https://img.shields.io/website?down_message=Offline&label=lutfilahdz.my.id&style=flat-square&up_message=Online&url=https%3A%2F%2Flutfilahdz.my.id)](https://lutfilahdz.my.id)
-[![](https://komarev.com/ghpvc/?username=lutfilahdzaky&style=flat-square)](https://github.com/lutfilahdzaky)
+[![Website](https://img.shields.io/website?down_message=Offline&label=lutfilahdz.my.id&style=flat-square&up_message=Online&url=https%3A%2F%2Flutfilahdz.my.id)][website]
+[![](https://komarev.com/ghpvc/?username=lutfilahdzaky&style=flat-square)][github]
 
 ## I'm a Student, if there is a mistake please guide me
 
@@ -12,47 +12,48 @@
 
 ### Connect with me:
 
-[<img align="left" alt="LutfilahDz | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="LutfilahDz | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
-[<img align="left" alt="LutfilahDz | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-[<img align="left" alt="lutfilahdzaky | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="lutfilahdzaky | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="lutfilahdzaky | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="lutfilahdzaky | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="LutfilahDz | Blogger" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />][blogger]
-[<img align="left" alt="lutfilahdz.my.id" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" width="22px" alt="LutfilahDz | YouTube" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" width="22px" alt="LutfilahDz | Telegram" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" width="22px" alt="LutfilahDz | Discord" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+[<img align="left" width="22px" alt="lutfilahdzaky | Instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" width="22px" alt="lutfilahdzaky | Facebook" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" width="22px" alt="lutfilahdzaky | Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" width="22px" alt="lutfilahdzaky | LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" width="22px" alt="LutfilahDz | Blogger" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />][blogger]
+[<img align="left" width="22px" alt="LutfilahDz | Website" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 <br />
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com)
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com)
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://git-scm.com)
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://wikipedia.org/wiki/HTML5)
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://wikipedia.org/wiki/Cascading_Style_Sheets)
-[<img align="left" alt="Lua" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" />](https://www.lua.org)
-[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />](https://www.java.com)
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />](https://nodejs.org)
-[<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />](https://wikipedia.org/wiki/C++)
-[<img align="left" alt="Php" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />](https://www.php.net/)
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://wikipedia.org/wiki/JavaScript)
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />](https://www.mysql.com)
+[<img align="left" width="26px" alt="PHP" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" />](https://www.php.net)
+[<img align="left" width="26px" alt="HTML5" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />](https://wikipedia.org/wiki/HTML5)
+[<img align="left" width="26px" alt="CSS3" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />](https://wikipedia.org/wiki/Cascading_Style_Sheets)
+[<img align="left" width="26px" alt="JavaScript" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />](https://wikipedia.org/wiki/JavaScript)
+[<img align="left" width="26px" alt="Kotlin" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kotlin.svg" />](https://kotlinlang.org)
+[<img align="left" width="26px" alt="Java" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />](https://www.java.com)
+[<img align="left" width="26px" alt="Python" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />](https://www.python.org)
+[<img align="left" width="26px" alt="C++" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />](https://wikipedia.org/wiki/C++)
+[<img align="left" width="26px" alt="Lua" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/lua.svg" />](https://www.lua.org)
+[<img align="left" width="26px" alt="Visual Studio Code" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />](https://code.visualstudio.com)
+[<img align="left" width="26px" alt="Git" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />](https://git-scm.com)
+[<img align="left" width="26px" alt="GitHub" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com)
+[<img align="left" width="26px" alt="Node.js" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />](https://nodejs.org)
 
-<br />
 <br />
 
 ---
 
-[![Github Stats](https://github-readme-stats.lutfilahdzaky.vercel.app/api?username=lutfilahdzaky&show_icons=true&hide_border=true)](https://github.com/lutfilahdzaky)
+[![Github Stats](https://github-readme-stats.lutfilahdzaky.vercel.app/api?username=lutfilahdzaky&theme=dracula&show_icons=true&hide_border=true)][github]
 
-[![Top Langs](https://github-readme-stats.lutfilahdzaky.vercel.app/api/top-langs/?username=lutfilahdzaky&layout=compact&hide_border=true)](https://github.com/lutfilahdzaky)
+[![Top Langs](https://github-readme-stats.lutfilahdzaky.vercel.app/api/top-langs/?username=lutfilahdzaky&theme=dracula&layout=compact&hide_border=true)][github]
 
+[github]: https://github.com/lutfilahdzaky
 [youtube]: https://youtube.com/lutfilahdz
 [telegram]: https://t.me/lutfilahdz
-[discord]: https://discord.gg/pS8yMsp
+[discord]: https://discord.gg/MXBycqz
 [instagram]: https://instagram.com/lutfilahdzaky
-[facebook]: https://web.facebook.com/lutfilahdzaky
+[facebook]: https://facebook.com/lutfilahdzaky
 [twitter]: https://twitter.com/lutfilahdzaky
 [linkedin]: https://linkedin.com/in/lutfilahdzaky
 [blogger]: https://lutfilahdz.blogspot.com
