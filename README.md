@@ -41,8 +41,8 @@ I'm a Student, if there is a mistake please guide me
 ---
 
 <p align="center">
-    <a href="https://github.com/lutfilahdzaky"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=lutfilahdzaky&theme=dracula&show_icons=true&hide_border=true"></a>
-    <a href="https://github.com/lutfilahdzaky"><img alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com?user=lutfilahdzaky&theme=dracula&hide_border=true"></a>
+    <a href="https://github.com/lutfilahdzaky"><img width="48%" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=lutfilahdzaky&theme=dracula&show_icons=true&hide_border=true"></a>
+    <a href="https://github.com/lutfilahdzaky"><img width="48%" alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com?user=lutfilahdzaky&theme=dracula&hide_border=true"></a>
 </p>
 <p align="center">
     <a href="https://youtube.com/lutfilahdz?sub_confirmation=1"><img alt="YouTube" src="https://img.shields.io/youtube/channel/subscribers/UCPHiZNMamtbYzGOICSKoY2A?label=YouTube&logo=YouTube&style=for-the-badge"></a>
