@@ -9,33 +9,34 @@ I'm a Student, if there is a mistake please guide me
 
 ### Connect with me:
 
-[<img align="left" width="22" alt="LutfilahDz on YouTube" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/youtube.svg">][YouTube]
-[<img align="left" width="22" alt="LutfilahDz on Telegram" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/telegram.svg">](https://t.me/lutfilahdz)
-[<img align="left" width="22" alt="LutfilahDz on Discord" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/discord.svg">](https://discord.gg/MXBycqz)
-[<img align="left" width="22" alt="lutfilahdzaky on Instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg">](https://instagram.com/lutfilahdzaky)
-[<img align="left" width="22" alt="lutfilahdzaky on Facebook" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/facebook.svg">](https://facebook.com/lutfilahdzaky)
-[<img align="left" width="22" alt="lutfilahdzaky on Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg">](https://twitter.com/lutfilahdzaky)
-[<img align="left" width="22" alt="lutfilahdzaky on LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg">](https://linkedin.com/in/lutfilahdzaky)
-[<img align="left" width="22" alt="LutfilahDz on Blogger" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/blogger.svg">](https://lutfilahdz.blogspot.com)
-[<img align="left" width="22" alt="LutfilahDz on Website" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg">](https://lutfilahdz.my.id)
+[<img align="left" width="22" alt="LutfilahDz on YouTube" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/youtube.svg">][YouTube]
+[<img align="left" width="22" alt="LutfilahDz on Telegram" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/telegram.svg">](https://t.me/lutfilahdz)
+[<img align="left" width="22" alt="LutfilahDz on Discord" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/discord.svg">](https://discord.gg/MXBycqz)
+[<img align="left" width="22" alt="lutfilahdzaky on Instagram" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg">](https://instagram.com/lutfilahdzaky)
+[<img align="left" width="22" alt="lutfilahdzaky on Facebook" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/facebook.svg">](https://facebook.com/lutfilahdzaky)
+[<img align="left" width="22" alt="lutfilahdzaky on Twitter" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg">](https://twitter.com/lutfilahdzaky)
+[<img align="left" width="22" alt="lutfilahdzaky on LinkedIn" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg">](https://linkedin.com/in/lutfilahdzaky)
+[<img align="left" width="22" alt="LutfilahDz on Twitch" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitch.svg">](https://www.twitch.tv/lutfilahdzaky)
 <br>
 
 ### Languages and Tools:
 
-[<img align="left" width="26" alt="PHP" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/php.svg">](https://www.php.net)
-[<img align="left" width="26" alt="HTML5" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/html5.svg">](https://wikipedia.org/wiki/HTML5)
-[<img align="left" width="26" alt="CSS3" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/css3.svg">](https://wikipedia.org/wiki/Cascading_Style_Sheets)
-[<img align="left" width="26" alt="JavaScript" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg">](https://wikipedia.org/wiki/JavaScript)
-[<img align="left" width="26" alt="Kotlin" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/kotlin.svg">](https://kotlinlang.org)
-[<img align="left" width="26" alt="Java" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/java.svg">](https://www.java.com)
-[<img align="left" width="26" alt="Python" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg">](https://www.python.org)
-[<img align="left" width="26" alt="C++" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/cplusplus.svg">](https://wikipedia.org/wiki/C++)
-[<img align="left" width="26" alt="Lua" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/lua.svg">](https://www.lua.org)
-[<img align="left" width="26" alt="Git" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/git.svg">](https://git-scm.com)
-[<img align="left" width="26" alt="GitHub" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg">](https://github.com)
-[<img align="left" width="26" alt="Visual Studio Code" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/visualstudiocode.svg">](https://code.visualstudio.com)
-[<img align="left" width="26" alt="Android Studio" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/androidstudio.svg">](https://developer.android.com/studio)
-[<img align="left" width="26" alt="Node.js" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/nodedotjs.svg">](https://nodejs.org)
+[<img align="left" width="26" alt="PHP" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/php.svg">](https://www.php.net)
+[<img align="left" width="26" alt="HTML5" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/html5.svg">](https://wikipedia.org/wiki/HTML5)
+[<img align="left" width="26" alt="CSS3" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/css3.svg">](https://wikipedia.org/wiki/Cascading_Style_Sheets)
+[<img align="left" width="26" alt="Kotlin" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/kotlin.svg">](https://kotlinlang.org)
+[<img align="left" width="26" alt="Java" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/java.svg">](https://www.java.com)
+[<img align="left" width="26" alt="JavaScript" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg">](https://wikipedia.org/wiki/JavaScript)
+[<img align="left" width="26" alt="TypeScript" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/typescript.svg">](https://www.typescriptlang.org/)
+[<img align="left" width="26" alt="Python" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/python.svg">](https://www.python.org)
+[<img align="left" width="26" alt="C++" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/cplusplus.svg">](https://wikipedia.org/wiki/C++)
+[<img align="left" width="26" alt="Lua" src="icons/lua.svg">](https://www.lua.org)
+[<img align="left" width="26" alt="Git" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/git.svg">](https://git-scm.com)
+[<img align="left" width="26" alt="GitHub" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg">](https://github.com)
+[<img align="left" width="26" alt="Visual Studio Code" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/visualstudiocode.svg">](https://code.visualstudio.com)
+[<img align="left" width="26" alt="Android Studio" src="icons/androidstudio.svg">](https://developer.android.com/studio)
+[<img align="left" width="26" alt="Node.js" src="icons/nodedotjs.svg">](https://nodejs.org)
+[<img align="left" width="26" alt="Flutter" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/flutter.svg">](https://flutter.dev)
 <br>
 
 ---
