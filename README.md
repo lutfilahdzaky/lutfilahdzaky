@@ -21,22 +21,7 @@ I'm a Student, if there is a mistake please guide me
 
 ### Languages and Tools:
 
-[<img align="left" width="26" alt="PHP" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/php.svg">](https://www.php.net)
-[<img align="left" width="26" alt="HTML5" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/html5.svg">](https://wikipedia.org/wiki/HTML5)
-[<img align="left" width="26" alt="CSS3" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/css3.svg">](https://wikipedia.org/wiki/Cascading_Style_Sheets)
-[<img align="left" width="26" alt="Kotlin" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/kotlin.svg">](https://kotlinlang.org)
-[<img align="left" width="26" alt="Java" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/java.svg">](https://www.java.com)
-[<img align="left" width="26" alt="JavaScript" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg">](https://wikipedia.org/wiki/JavaScript)
-[<img align="left" width="26" alt="TypeScript" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/typescript.svg">](https://www.typescriptlang.org/)
-[<img align="left" width="26" alt="Python" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/python.svg">](https://www.python.org)
-[<img align="left" width="26" alt="C++" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/cplusplus.svg">](https://wikipedia.org/wiki/C++)
-[<img align="left" width="26" alt="Lua" src="icons/lua.svg">](https://www.lua.org)
-[<img align="left" width="26" alt="Git" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/git.svg">](https://git-scm.com)
-[<img align="left" width="26" alt="GitHub" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg">](https://github.com)
-[<img align="left" width="26" alt="Visual Studio Code" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/visualstudiocode.svg">](https://code.visualstudio.com)
-[<img align="left" width="26" alt="Android Studio" src="icons/androidstudio.svg">](https://developer.android.com/studio)
-[<img align="left" width="26" alt="Node.js" src="icons/nodedotjs.svg">](https://nodejs.org)
-[<img align="left" width="26" alt="Flutter" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/flutter.svg">](https://flutter.dev)
+![Languages and Tools](https://skillicons.dev/icons?i=php,html,css,kotlin,java,js,ts,py,cpp,git,github,vscode,androidstudio,nodejs)
 <br>
 
 ---
