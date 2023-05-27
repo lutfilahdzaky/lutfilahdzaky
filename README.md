@@ -34,7 +34,6 @@ I'm a Student, if there is a mistake please guide me
     <a href="https://youtube.com/lutfilahdz?sub_confirmation=1"><img alt="YouTube" src="https://img.shields.io/youtube/channel/subscribers/UCPHiZNMamtbYzGOICSKoY2A?label=YouTube&logo=YouTube&style=for-the-badge"></a>
     <a href="https://discord.gg/MXBycqz"><img alt="Discord" src="https://img.shields.io/discord/398660596473659403?label=Discord&logo=Discord&style=for-the-badge"></a>
     <a href="https://github.com/lutfilahdzaky?tab=followers"><img alt="GitHub" src="https://img.shields.io/github/followers/lutfilahdzaky?label=GitHub&logo=GitHub&style=for-the-badge"></a>
-    <a href="https://twitter.com/lutfilahdzaky"><img alt="Twitter" src="https://img.shields.io/twitter/follow/lutfilahdzaky?label=Twitter&logo=Twitter&style=for-the-badge"></a>
 </p>
 <p align="center">
     <a href="https://lutfilahdz.my.id"><img alt="Website" src="https://img.shields.io/website?down_message=Offline&label=lutfilahdz.my.id&style=flat-square&up_message=Online&url=https%3A%2F%2Flutfilahdz.my.id"></a>
