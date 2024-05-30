@@ -1,13 +1,13 @@
 ## Hi there, I'm Lutfilah Dzaky - aka [LutfilahDz][YouTube]
 
-I'm a Student, if there is a mistake please guide me
+I am a Student, constantly learning and growing.
 
-- 📚 I'm currently learning everything
-- ⭐️ For now my hobbies are Anime, Programming and Games
-- ❤️ I hope I can help you
-- 💬 Want to ask something? ask me [here](https://t.me/lutfilahdzaky)
+- 📚 I am on a journey of continuous learning.
+- ❤️ I enjoy contributing and sharing my knowledge.
+- ⭐️ I am currently interested in Anime, Programming, and Games.
+- 💬 Have a question or just want to chat? Feel free to reach out to me [here](https://discord.gg/MXBycqz).
 
-### Languages and Tools:
+### Languages and Tools
 
 ![Languages and Tools](https://skillicons.dev/icons?i=php,html,css,kotlin,java,js,ts,py,cpp,git,github,vscode,androidstudio,nodejs)
 <br>
