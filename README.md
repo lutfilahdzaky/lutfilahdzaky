@@ -20,7 +20,7 @@ I am a Student, constantly learning and growing.
 
 ### GitHub Statistics
 
-<a href="https://github.com/lutfilahdzaky"><img height=200 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lutfilahdzaky&show_icons=true&theme=dracula&hide_border=true"></a>
-<a href="https://github.com/lutfilahdzaky"><img height=200 alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lutfilahdzaky&layout=compact&theme=dracula&hide_border=true"></a>
+<a href="https://github.com/lutfilahdzaky"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lutfilahdzaky&line_height=20&show_icons=true&theme=dracula&hide_border=true"></a>
+<a href="https://github.com/lutfilahdzaky"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lutfilahdzaky&layout=compact&theme=dracula&hide_border=true"></a>
 
 [YouTube]: https://youtube.com/lutfilahdz?sub_confirmation=1
