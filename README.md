@@ -1,4 +1,4 @@
-## Hi there, I'm Lutfilah Dzaky - aka [LutfilahDz][YouTube]
+## Hey there, I'm Lutfilah Dzaky, also known as [LutfilahDz][YouTube].
 
 I am a Student, constantly learning and growing.
 
