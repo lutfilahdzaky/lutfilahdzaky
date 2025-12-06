@@ -1,11 +1,10 @@
 ## Hey there, I'm Lutfilah Dzaky, also known as [LutfilahDz][YouTube].
 
-I am a Student, constantly learning and growing.
-
-- 📚 I am on a journey of continuous learning.
-- ❤️ I enjoy contributing and sharing my knowledge.
-- ⭐️ I am currently interested in Programming and Games.
-- 💬 Have questions or want to discuss? Reach out to me [here](https://discord.gg/MXBycqz).
+I’m a student committed to learning and expanding my skills.
+- 📚 I actively explore new technologies and refine my abilities step by step.
+- ❤️ I enjoy contributing to projects and sharing insights that can help others.
+- 🌱 I’m actively expanding my knowledge in game development and related technologies.
+- 💬 Have a question or want to connect? You can reach me through [here](https://discord.gg/MXBycqz).
 
 <p>
     <a href="https://youtube.com/lutfilahdz?sub_confirmation=1"><img alt="YouTube" src="https://img.shields.io/youtube/channel/subscribers/UCPHiZNMamtbYzGOICSKoY2A?label=YouTube&logo=YouTube&logoColor=white&style=for-the-badge"></a>
@@ -15,7 +14,8 @@ I am a Student, constantly learning and growing.
 
 ### Languages and Tools
 
-![Languages and Tools](https://skillicons.dev/icons?i=php,js,ts,kotlin,java,py,cpp,vscode,visualstudio,androidstudio,nodejs)
+![Languages](https://skillicons.dev/icons?i=ts,kotlin,php,py,cpp,cs)
+![Tools](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,godot,unity,docker)
 <be>
 
 ### GitHub Statistics
